@@ -1,0 +1,6 @@
+tqdm==4.33.0
+tensorflow-gpu
+tensorflow-probability
+matplotlib
+pandas
+seaborn
